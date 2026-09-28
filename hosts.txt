@@ -1,0 +1,6 @@
+# One host per line. Lines that start with # are ignored.
+# Format: name=ip (sound)
+# Sounds: loud, soft, silent
+google-dns=8.8.8.8 (soft)
+Den=192.168.103.104 (loud)
+Gooda=192.168.103.227 (loud)
